@@ -12,34 +12,34 @@
 collatz_conjecture:
 	.fnstart
 		startup:
-			LDR R2,	[R0] //move start value to R2
-			MOV R3, #0   //place the number of iterations in R3
-			MOV R4, #3   //Set R4 to 4 for later multiplications by 3
+			LDR R2,	[R0] //Plaats het start nummer in R2
+			MOV R3, #0   //Zet R3 gelijk aan 0, voor het aantal iteraties
+			MOV R4, #3   //Zet R4 gelijk aan 3, voor latere vermenigvuldiginen
 
 
-		//Loop to test the conjecture /////////////////////////////
+		//Loop van Collatz vermoeden /////////////////////////////
 		while:
-			CMP R2, #1   //Compare the R2 value with 1
-			BEQ end	     //If r2 == 1, branch to the end section
-			ADD R3, #1   //Else, add 1 to the iteration
-			TST R2, #1   //R2 AND 1 operation, if R2 is even the zero flag is set
-			BNE uneven   //if the zero flag is clear, jump to uneven
-			B even	     //if the zero flag is set, branch to even
+			CMP R2, #1   //Vergelijk de waarde van R2 met 1
+			BEQ end	     //Als R2 == 1, branch naar de "end" sectie
+			ADD R3, #1   //Anders, verhoog de iteraties met 1
+			TST R2, #1   //R2 AND 1 operatie, als R2 even is wordt de "zero flag" gezet
+			BNE uneven   //Als de "zero flag" niet actief is, branch naar "uneven"
+			B even	     //Anders, branch naar even
 
 		even:
-			LSR R2, #1   //Logical shift right (/2)
-			B while      //Branch back to the loop
+			LSR R2, #1   //Logische verschijving naar rechts (= /2)
+			B while      //Branch naar "while"
 
 		uneven:
-			MUL R2, R4   //Multiply R2 by 3 (R4)
-			ADD R2, #1   //Add 1 to R2
-			B while      //Branch back to the loop
+			MUL R2, R4   //Vermenigvuldig R2 met R4 (= R2*3)
+			ADD R2, #1   //Verhoog R2 met 1
+			B while      //Branch naar "while"
 		//////////////////////////////////////////////////////////
 
 
 		end:
-			STR R2, [R0] //Place R2 back on the address of R0
-			STR R3, [R1] //Place the iterations count on the adress of R1
-			BX lr		 //Branch back to the main program
+			STR R2, [R0] //Plaats R2 terug op het adres van R0
+			STR R3, [R1] //Plaats het aantal iteraties op het adres van R1
+			BX lr		 //Branch terug naar het main programma
 
 	.fnend
