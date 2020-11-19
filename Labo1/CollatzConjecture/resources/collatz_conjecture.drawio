@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T14:20:35.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="VSJMOk8fs-IooJTwYLYB" version="13.10.0" type="github"><diagram id="ZFfswURlL0VdCDUh8Eo_" name="Page-1">3VnbctowEP0aHsn4jnlsCGk6zW3CtE370hFY2E5ly5HlAP36rmwJ44gQdybghCes3ZW8OjpHK+GePUqWnxnKoisaYNKzjGDZs896lmU6hgc/wrKqLIOhVRlCFgcyqDZM4r9YGg1pLeIA541ATinhcdY0zmia4hlv2BBjdNEMm1PSfGuGQqwZJjNEdOuPOOBRZfWtQW2/wHEYqTeb3rDyJEgFy5nkEQroYsNkj3v2iFHKq6dkOcJEgKdwqfqdv+BdJ8Zwytt0uHyMojGNrh69r/Hy8ia6mN/c922ZG1+pCeMA5i+blPGIhjRFZFxbTxkt0gCLUQ1o1TGXlGZgNMH4gDlfycVEBadginhCpBcSZqt70f/EVc2fcriycbZstFayVeUqEnwRAmnKacFmeMe8FZUQCzHfEWetFwoYjmmCIR/oxzBBPH5q5oEk1cJ1XL0a8CAX5D8WR477hEgh3zSBhLm2ZPWCCHQXUczxJEPl/Begyib4ckzMOF7uhlGftuxg+1LUUtO+ZPiiFogrI6INbTjGnnByNZy6YPUbstNqyU6nS3ZaOjshWctIi2SKWc/yCKR+OhVPoXiqvDOAWWcw7I2ZeASwECGY0JChBPpkmMWQLQz3zHdbO14j/DxeYlVY3koArtMQgOnqCjDVvr8pAW9fElDl8ng04LTUgNelBhwN9RESvTyUCBam0zwrUam0kGcohWiC0rAM9h4LUfxPx9f9b5O62Vg1ZZzTlPfzEvdPEGAamVBTFU3iFPcVzUqvCVuiu/aXfecoicmq8q8T7Fm27cAvnJ5ySgCe547NrCoZzygBZP/+hi4PcOAqGFbTAwSrGVaBO8qUcZgypbpIla4L0KZK/S2Fan8q1Sv6B1ep11Klfpcq9TTULzHcKepSdVzVyN7G88NWo6M7kfkteW52eiTzNdhvCUJcUj0RVDdiUYLuLP189qs8n93BjdAAfC3DeDHEUSH67fHge/wz7jvdc19fhGuMPzj9zbY3EnPQJf9VmhvYf8kl3Y0Qk/jhj3hteQoDhM51+kY0mRb5YajrNKnreVuo62yhru+euPsCUC+VH525be8RZrd/9eg3ie+YrSlbEhhXtH1vW67rOoqPnW261tFdf81BW94OO+XtYBtvI0pDdZZIyjPD+6PtYNj5SWH4Omm7Rmlo7g8laNZfP0rfxjcke/wP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T14:25:24.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="eLxBUTHpcWRbTcrSWNyV" version="13.10.0" type="github">
+  <diagram id="ZFfswURlL0VdCDUh8Eo_" name="Page-1">
+    <mxGraphModel dx="1406" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LqhhEohMq6KixLOhHfOX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LqhhEohMq6KixLOhHfOX-1" target="LqhhEohMq6KixLOhHfOX-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="386" y="10" width="56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-2" target="LqhhEohMq6KixLOhHfOX-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-2" value="Set number&lt;br&gt;Set count" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-4" target="LqhhEohMq6KixLOhHfOX-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-4" value="Call&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115% ; font-family: &amp;#34;consolas&amp;#34;&quot;&gt;collatz_conjecture&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="321" y="170" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-6" target="LqhhEohMq6KixLOhHfOX-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-6" value="Lees number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-8" target="LqhhEohMq6KixLOhHfOX-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-8" value="Plaats nummer in R2&lt;br&gt;Zet R3 op 0&lt;br&gt;Zet R4 op 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-18" value="Nee" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-12" target="LqhhEohMq6KixLOhHfOX-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-12" value="Is R2 gelijk aan 1?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="590" width="140" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-14" target="LqhhEohMq6KixLOhHfOX-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-14" value="Vergelijk R2 en 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="484.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-17" target="LqhhEohMq6KixLOhHfOX-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-17" value="Verhoog R3 met 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqhhEohMq6KixLOhHfOX-19" target="e8Rg0GPXYr-cfTP7WvYm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqhhEohMq6KixLOhHfOX-19" value="Kijk of de &quot;zero flag&quot; leeg is" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-1" value="Is de &quot;zero flag&quot; leeg?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="900" width="151" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
