@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T15:11:34.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="lyCOTKEFkUzYa40U4GiA" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T15:24:01.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="qCT1JW1YJKWMoKjH0-lx" version="13.10.0" type="github">
   <diagram id="ZFfswURlL0VdCDUh8Eo_" name="Page-1">
     <mxGraphModel dx="1999" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,33 +8,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="386" y="10" width="56" height="40" as="geometry" />
+          <mxGeometry x="391.5" y="20" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-2" target="LqhhEohMq6KixLOhHfOX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-2" value="Set number&lt;br&gt;Set count" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="357" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-4" target="LqhhEohMq6KixLOhHfOX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-4" value="Call&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115% ; font-family: &amp;#34;consolas&amp;#34;&quot;&gt;collatz_conjecture&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="321" y="170" width="186" height="60" as="geometry" />
+          <mxGeometry x="324" y="170" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-6" target="LqhhEohMq6KixLOhHfOX-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-6" value="Lees nummer op &lt;br&gt;adres R0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="342.5" y="270" width="143" height="70" as="geometry" />
+          <mxGeometry x="345.5" y="270" width="143" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-8" target="LqhhEohMq6KixLOhHfOX-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-8" value="Plaats nummer in R2&lt;br&gt;Zet R3 op 0&lt;br&gt;Zet R4 op 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="357" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-18" value="Nee" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-12" target="LqhhEohMq6KixLOhHfOX-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-24" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqhhEohMq6KixLOhHfOX-12" target="e8Rg0GPXYr-cfTP7WvYm-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-12" value="Is R2 gelijk aan 1?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -116,6 +119,27 @@
         </mxCell>
         <mxCell id="e8Rg0GPXYr-cfTP7WvYm-16" value="Branch naar &quot;while&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-55" y="530" width="120" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8Rg0GPXYr-cfTP7WvYm-23" target="e8Rg0GPXYr-cfTP7WvYm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-23" value="Branch naar &quot;end&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="632.75" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8Rg0GPXYr-cfTP7WvYm-27" target="e8Rg0GPXYr-cfTP7WvYm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-27" value="Schrijf de waarde van&lt;br&gt;&amp;nbsp;R2 op het adres &lt;br&gt;van R0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="750" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e8Rg0GPXYr-cfTP7WvYm-30" target="e8Rg0GPXYr-cfTP7WvYm-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-30" value="Schrijf de waarde van&lt;br&gt;&amp;nbsp;R3 op het adres &lt;br&gt;van R1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="860" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-31" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="960" width="55" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
