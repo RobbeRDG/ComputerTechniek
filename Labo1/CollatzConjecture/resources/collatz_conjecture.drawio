@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T20:35:30.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="K2mKBUxTlgKhMJU8gQ6l" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T20:44:45.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hAQpBGhMn2kqpCqZ6WWk" version="13.10.0" type="github">
   <diagram id="ZFfswURlL0VdCDUh8Eo_" name="Page-1">
-    <mxGraphModel dx="2233" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3639" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,12 +169,6 @@
         </mxCell>
         <mxCell id="wuot6vezR1dtGcVfF5rh-6" value="Print dat het&lt;br&gt;&amp;nbsp;vermoeden&lt;br&gt;&amp;nbsp;niet klopt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="690" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wuot6vezR1dtGcVfF5rh-13" value="collatz_conjecture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="150" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wuot6vezR1dtGcVfF5rh-14" value="main.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
