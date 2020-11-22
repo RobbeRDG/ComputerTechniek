@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T20:30:33.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="f-GTPwtV3CNk7A5MyjFO" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T20:33:34.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="BIhJ6Z1ouPxa0SSevCIL" version="13.10.0" type="github">
   <diagram id="ZFfswURlL0VdCDUh8Eo_" name="Page-1">
     <mxGraphModel dx="2233" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="LqhhEohMq6KixLOhHfOX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LqhhEohMq6KixLOhHfOX-1" target="LqhhEohMq6KixLOhHfOX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LqhhEohMq6KixLOhHfOX-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LqhhEohMq6KixLOhHfOX-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="391.5" y="20" width="51" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-2" target="LqhhEohMq6KixLOhHfOX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LqhhEohMq6KixLOhHfOX-2" value="Initialiseer het startnumber&lt;br&gt;Initialiseer de count" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="LqhhEohMq6KixLOhHfOX-2" value="Initialiseer het startnumber&lt;br&gt;Initialiseer de count" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="80" width="193" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-4" target="LqhhEohMq6KixLOhHfOX-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LqhhEohMq6KixLOhHfOX-4" value="Roep de&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115% ; font-family: &amp;#34;consolas&amp;#34;&quot;&gt;collatz_conjecture &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115%&quot;&gt;functie&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LqhhEohMq6KixLOhHfOX-4" value="Roep de&amp;nbsp;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115% ; font-family: &amp;#34;consolas&amp;#34;&quot;&gt;collatz_conjecture &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10pt ; line-height: 115%&quot;&gt;functie&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="324" y="170" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LqhhEohMq6KixLOhHfOX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LqhhEohMq6KixLOhHfOX-6" target="LqhhEohMq6KixLOhHfOX-8" edge="1">
@@ -132,7 +132,7 @@
         <mxCell id="e8Rg0GPXYr-cfTP7WvYm-27" value="Schrijf de waarde van&lt;br&gt;&amp;nbsp;R2 op het adres &lt;br&gt;van R0 en de waarde van&lt;br&gt;&amp;nbsp;R3 op het adres&amp;nbsp;&lt;br&gt;van R1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="690" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-31" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="e8Rg0GPXYr-cfTP7WvYm-31" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="607.5" y="1130" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wuot6vezR1dtGcVfF5rh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wuot6vezR1dtGcVfF5rh-1" target="wuot6vezR1dtGcVfF5rh-3">
@@ -155,20 +155,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wuot6vezR1dtGcVfF5rh-3" value="Is de nieuwe nummer&lt;br&gt;&amp;nbsp;gelijk aan 1?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wuot6vezR1dtGcVfF5rh-3" value="Is de nieuwe nummer&lt;br&gt;&amp;nbsp;gelijk aan 1?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="555" y="930" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wuot6vezR1dtGcVfF5rh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuot6vezR1dtGcVfF5rh-5" target="e8Rg0GPXYr-cfTP7WvYm-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wuot6vezR1dtGcVfF5rh-5" value="Print dat het vermoeden&lt;br&gt;&amp;nbsp;klopt en&amp;nbsp;print het aantal&lt;br&gt;&amp;nbsp;iteraties" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="wuot6vezR1dtGcVfF5rh-5" value="Print dat het vermoeden&lt;br&gt;&amp;nbsp;klopt en&amp;nbsp;print het aantal&lt;br&gt;&amp;nbsp;iteraties" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="400" y="1030" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wuot6vezR1dtGcVfF5rh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wuot6vezR1dtGcVfF5rh-6" target="e8Rg0GPXYr-cfTP7WvYm-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wuot6vezR1dtGcVfF5rh-6" value="Print dat het vermoeden&lt;br&gt;&amp;nbsp;niet klopt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="wuot6vezR1dtGcVfF5rh-6" value="Print dat het vermoeden&lt;br&gt;&amp;nbsp;niet klopt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#CCE5FF;" vertex="1" parent="1">
           <mxGeometry x="690" y="1030" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wuot6vezR1dtGcVfF5rh-13" value="collatz_conjecture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wuot6vezR1dtGcVfF5rh-14" value="main.c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="90" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
